@@ -2,7 +2,7 @@
 <h3 align="center">An undergraduate student from Bangkok, Thailand.</h3>
 
 - 🌱 I’m currently learning **Machine Learning, Deep Learning, and Data Science.**
-<br>
+
 p.s. I'm not very strong at coding yet, but I always try my best!
 
 <h3 align="left">Connect with me:</h3>
